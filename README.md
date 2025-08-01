@@ -1,10 +1,4 @@
-<html>
-  <body>
-    <h1>Hello</h1>
-  </body>
-</html>
-
-<!-- ## Hi there 👋 -->
+## Hi there 👋
 
 <!--
 **kasandko/kasandko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
